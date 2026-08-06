@@ -8,7 +8,7 @@ Crafting modern, production-ready Android applications with clean architecture a
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohamedm-dev)
 [![Axon Code Labs](https://img.shields.io/badge/Axon%20Code%20Labs-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Axon+Code+Labs)
 
 </div>
@@ -55,7 +55,7 @@ Key principles:
 
 [![Google Play](https://img.shields.io/badge/Google%20Play-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.axoncodelabs.fundflow)
 
-[![GitHub](https://img.shields.io/badge/GitHub%20Repository-4D4D4D?style=flat&logo=github&logoColor=white)](https://github.com/ahmedmohamed0l/Fund-Flow)
+[![GitHub](https://img.shields.io/badge/GitHub%20Repository-4D4D4D?style=flat&logo=github&logoColor=white)](https://github.com/ahmedmohamedm-dev/Fund-Flow)
 
 ---
 
@@ -103,6 +103,6 @@ Key principles:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohamedm-dev)
 
-[![Email](https://img.shields.io/badge/Email-ahmedmm72005%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmm72005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahmedmohamedm.dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmohamedm.dev@gmail.com)
