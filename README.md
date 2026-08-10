@@ -86,7 +86,6 @@ Key principles:
 
 ## 📚 Currently Learning
 
-* Advanced Android Development
 * Android Testing
 * Performance Optimization
 * Kotlin Multiplatform (KMP)
