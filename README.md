@@ -76,19 +76,12 @@ Key principles:
 ![DataStore](https://img.shields.io/badge/DataStore-43A047?style=flat)
 ![Material 3](https://img.shields.io/badge/Material%203-5E35B1?style=flat)
 
-
-### Additional Experience
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android XML](https://img.shields.io/badge/Android%20XML-3DDC84?style=flat&logo=android&logoColor=white)
-
 ---
 
 ## 📚 Currently Learning
 
 * Android Testing
 * Performance Optimization
-* Kotlin Multiplatform (KMP)
 
 ---
 
