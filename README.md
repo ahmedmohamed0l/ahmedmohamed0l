@@ -9,7 +9,7 @@ Crafting modern, production-ready Android applications with clean architecture a
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohamedm-dev)
-[![Axon Code Labs](https://img.shields.io/badge/Axon%20Code%20Labs-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Axon+Code+Labs)
+[![Axon Code Labs](https://img.shields.io/badge/Axon%20Code%20Labs-34A853?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=5117492251638444322)
 
 </div>
 
